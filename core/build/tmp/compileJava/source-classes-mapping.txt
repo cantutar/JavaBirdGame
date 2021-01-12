@@ -1,0 +1,2 @@
+com/vahitcantutar/bird/BirdGame.java
+ com.vahitcantutar.bird.BirdGame

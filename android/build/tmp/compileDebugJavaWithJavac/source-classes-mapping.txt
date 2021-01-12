@@ -1,0 +1,4 @@
+com/vahitcantutar/bird/BuildConfig.java
+ com.vahitcantutar.bird.BuildConfig
+com/vahitcantutar/bird/AndroidLauncher.java
+ com.vahitcantutar.bird.AndroidLauncher
